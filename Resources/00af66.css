@@ -1,0 +1,9 @@
+.content.color-00AF66 h1
+{
+  color:                          #00AF66;
+}
+
+.content.color-00AF66 .cke_editable ul li::before, .content.color-00AF66 ul li::before
+{
+  color:                          #00AF66;
+}
